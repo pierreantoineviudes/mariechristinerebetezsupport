@@ -1,2 +1,7 @@
-# mariechristinerebetezsupport
-Support page for Marie-Christine Rebetez App on iOS - Mon Carnet de Santé
+# Mon Carnet de Santé Support
+
+
+If you have any issues concerning "Mon Carnet de Santé", please contact:
+
+Marie-Christine Rebetez
+*mermcr@yahoo.fr*
